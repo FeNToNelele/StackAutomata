@@ -1,0 +1,6 @@
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomationDLL\obj\Debug\StackAutomationDLL.csproj.AssemblyReference.cache
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomationDLL\obj\Debug\StackAutomationDLL.csproj.CoreCompileInputs.cache
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomationDLL\bin\Debug\StackAutomationDLL.dll
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomationDLL\bin\Debug\StackAutomationDLL.pdb
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomationDLL\obj\Debug\StackAutomationDLL.dll
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomationDLL\obj\Debug\StackAutomationDLL.pdb

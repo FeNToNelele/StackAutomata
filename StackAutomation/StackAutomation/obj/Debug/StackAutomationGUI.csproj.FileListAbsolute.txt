@@ -1,0 +1,22 @@
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\bin\Debug\StackAutomationGUI.exe.config
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\bin\Debug\StackAutomationGUI.exe
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\bin\Debug\StackAutomationGUI.pdb
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.csproj.AssemblyReference.cache
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.Form1.resources
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.Properties.Resources.resources
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.csproj.GenerateResource.cache
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.csproj.CoreCompileInputs.cache
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.exe
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.pdb
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.csproj.AssemblyReference.cache
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.csproj.SuggestedBindingRedirects.cache
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.Properties.Resources.resources
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.csproj.GenerateResource.cache
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.csproj.CoreCompileInputs.cache
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.exe
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.pdb
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\bin\Debug\StackAutomationGUI.exe.config
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\bin\Debug\StackAutomationGUI.exe
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\bin\Debug\StackAutomationGUI.pdb
+G:\Saját meghajtó\EKKE\Fordítóprogramok\Project_StackAutomata\StackAutomation\StackAutomation\obj\Debug\StackAutomationGUI.Window.resources

@@ -1,0 +1,11 @@
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\bin\Debug\StackAutomation.exe.config
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\bin\Debug\StackAutomation.exe
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\bin\Debug\StackAutomation.pdb
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomation.csproj.AssemblyReference.cache
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomation.Form1.resources
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomation.Properties.Resources.resources
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomation.csproj.GenerateResource.cache
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomation.exe
+C:\Users\Gabor\Documents\StackAutomation\StackAutomation\obj\Debug\StackAutomation.pdb
